@@ -9,7 +9,7 @@ Activity recognition is increasingly used in healthcare (e.g., tracking diet, ex
 The goal of this project is to **identify and classify eating-related activities** from head-motion sensor data. By analyzing time-series inertial data, we aim to distinguish ‘eating’ gestures from other daily activities. Successful recognition can support automated dietary monitoring or mealtime interventions.
 
 ## Dataset Description
-
+ http://skleinberg.org/data/GLEAM.tar.gz
 We use the **Glass Eating and Motion (GLEAM)** dataset (Rahman et al., 2015), which contains head-mounted sensor recordings and activity annotations:
 
 - **Participants & Protocol:** 38 subjects wore Google Glass and performed scripted activities (including eating meals, drinking, walking, reading, etc.) over ~2 hours each.
